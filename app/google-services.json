@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "427318997817",
+    "project_id": "practicalogin-33425",
+    "storage_bucket": "practicalogin-33425.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:427318997817:android:3cb2f668e755b96e9baee8",
+        "android_client_info": {
+          "package_name": "mx.ipn.cic.geo.login_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "427318997817-jknapf6ijjv3407phn538hdvk63hkunc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDInZLqiJkE3FMZLmKPY1fUMjdNs1u1zOM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "427318997817-jknapf6ijjv3407phn538hdvk63hkunc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
